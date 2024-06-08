@@ -65,7 +65,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 After creation, your project should look like this:
 
 ```
-my-app/
+React-Form/
 ├── README.md
 ├── node_modules/
 ├── package.json
