@@ -86,3 +86,12 @@ This project uses React. Ensure you have Node.js installed, then you can install
 ```bash
 npm install
 ```
+
+# 
+![image](https://github.com/ravikant-diwakar/React-Form/assets/110620635/20183044-6a58-4791-a59f-374d88a843fd)
+
+#
+![image](https://github.com/ravikant-diwakar/React-Form/assets/110620635/5d99560e-29df-436a-bebe-56571ea36523)
+
+#
+![image](https://github.com/ravikant-diwakar/React-Form/assets/110620635/9cba489a-7bfe-437d-8761-9c68379208c1)
