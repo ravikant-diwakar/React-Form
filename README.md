@@ -50,7 +50,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 - **Password** : Required (with show/hide functionality)
 - **Phone No.** : Required (country code __ number)
 - **Country** : Required (dropdown)
-- **City**: Required (dropdown)
+- **City** : Required (dropdown)
 - **Pan No.**: Required
 - **Aadhar No.**: Required
 
