@@ -44,7 +44,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 ### Form Fields
 
 - **First Name** : Required
-- **Last Name**: Required
+- **Last Name** : Required
 - **Username**: Required
 - **E-mail**: Required (must be a valid email format)
 - **Password**: Required (with show/hide functionality)
