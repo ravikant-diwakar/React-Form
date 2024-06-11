@@ -48,7 +48,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 - **Username** : Required
 - **E-mail** : Required (must be a valid email format)
 - **Password** : Required (with show/hide functionality)
-- **Phone No.**: Required (country code __ number)
+- **Phone No.** : Required (country code __ number)
 - **Country**: Required (dropdown)
 - **City**: Required (dropdown)
 - **Pan No.**: Required
