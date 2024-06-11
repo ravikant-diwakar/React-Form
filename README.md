@@ -62,8 +62,6 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ## Folder Structure
 
-After creation, your project should look like this:
-
 ```
 React-Form/
 ├── README.md
