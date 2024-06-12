@@ -1,4 +1,4 @@
-# React Form with Validation
+# React Forms and Form Validation
 
 React application that creates a form with validation for required fields without using third-party libraries. It displays error messages, disables submission until all fields are filled correctly, and shows all the filled details on a new route after a successful submission.
 
